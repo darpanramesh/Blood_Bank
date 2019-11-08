@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bloodBank</string>
+    <string name="facebook_app_id">431821060659933</string>
+<string name="fb_login_protocol_scheme">fb431821060659933</string>
+</resources>
